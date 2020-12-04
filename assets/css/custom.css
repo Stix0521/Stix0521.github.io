@@ -1,1 +1,9 @@
+.nav-content {
+  display: flex;
+  font-family: 'Source Serif Pro', serif; 
+}
 
+.nav-link {
+ display: block;
+ width: 20%; 
+} 
