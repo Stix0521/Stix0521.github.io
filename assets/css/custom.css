@@ -7,3 +7,8 @@
  display: block;
  width: 20%; 
 } 
+
+header{
+  background-image: url{"assets/images/pasted image 0.png"};
+  background-size: cover;
+}
